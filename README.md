@@ -21,7 +21,6 @@ https://document-to-course.vercel.app
 - TypeScript
 - Tailwind CSS
 - React Router
-- Gemini API (Google AI Studio)
 
 ## 📁 Folder Structure
 src/

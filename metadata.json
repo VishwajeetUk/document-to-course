@@ -1,0 +1,6 @@
+{
+  "name": "CourseForge",
+  "description": "Transforms documents into structured interactive online courses with lessons, quizzes, and certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

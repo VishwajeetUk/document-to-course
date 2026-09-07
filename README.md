@@ -25,13 +25,13 @@ https://document-to-course.vercel.app
 ## 📁 Folder Structure
 
 src/
-  components/   → Reusable UI pieces (e.g. Header)
-  layouts/      → Shared layout wrapper (Header + main content)
-  pages/        → Top-level screens (Upload, CourseOverview, LessonViewer, Quiz, Certificate)
-  hooks/        → Custom hooks (useCourseProgress, useQuiz)
-  context/      → Global course state (CourseContext)
-  data/         → Sample course data
-  utils/        → Helper functions (document parsing/generation logic)
+- components/   → Reusable UI pieces (e.g. Header)
+- layouts/      → Shared layout wrapper (Header + main content)
+- pages/        → Top-level screens (Upload, CourseOverview, LessonViewer, Quiz, Certificate)
+- hooks/        → Custom hooks (useCourseProgress, useQuiz)
+- context/      → Global course state (CourseContext)
+- data/         → Sample course data
+- utils/        → Helper functions (document parsing/generation logic)
   
 ## 🚀 Running Locally
 ```bash

@@ -9,7 +9,7 @@ https://document-to-course.vercel.app
 
 ## ✨ Features
 - Drag-and-drop document upload (PDF, DOCX, TXT)
-- AI-powered course generation (Gemini API) with staged processing states
+- AI-powered course generation with staged processing states
 - Course overview with module/lesson list and progress indicators
 - Lesson viewer with sidebar navigation, prev/next controls
 - Interactive quizzes with instant feedback, scoring, and retry option

@@ -24,7 +24,6 @@ https://document-to-course.vercel.app
 
 ## 📁 Folder Structure
 
-\`\`\`
 src/
   components/   → Reusable UI pieces (e.g. Header)
   layouts/      → Shared layout wrapper (Header + main content)
@@ -33,8 +32,7 @@ src/
   context/      → Global course state (CourseContext)
   data/         → Sample course data
   utils/        → Helper functions (document parsing/generation logic)
-\`\`\`
-
+  
 ## 🚀 Running Locally
 ```bash
 git clone https://github.com/VishwajeetUk/document-to-course.git
